@@ -1,0 +1,63 @@
+*{
+    margin: 5;
+    padding: 5;
+    box-sizing: border-box;
+}
+ body {
+      font-family: Arial, sans-serif;
+      background: #f8f8f8;
+      margin: 0;
+      padding: 0;
+    }
+    .Question {
+      max-width: 1000px;
+      margin: auto;
+      padding: 20px;
+    }
+    h2 {
+      text-align: center;
+      margin-bottom: 20px;
+      color: #333;
+    }
+    section {
+      background: #efd0f1;
+      margin: 20px 0;
+      padding: 20px;
+      border-radius: 10px;
+      box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    }
+    details {
+      margin: 10px 0;
+    }
+    summary {
+      font-weight: bold;
+      cursor: pointer;
+    }
+    input ,textarea, button {
+      width: 100%;
+      padding: 10px;
+      margin: 8px 0;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+    }
+    button {
+      background: #ac4caf;
+      color: white;
+      border: none;
+      cursor: pointer;
+    }
+    button:hover {
+      background: #45a049;
+    }
+    
+    .social-links a {
+      margin: 0 10px;
+      text-decoration: none;
+      font-size: 20px;
+      color: #333;
+      gap: 10px;
+    }
+    .helpline {
+      font-size: 18px;
+      color: #555;
+    }
