@@ -50,9 +50,8 @@
       background: #45a049;
     }
     
-    .social-links a {
+    .social-links {
       margin: 0 10px;
-      text-decoration: none;
       font-size: 20px;
       color: #333;
       gap: 10px;
